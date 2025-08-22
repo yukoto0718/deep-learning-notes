@@ -25,16 +25,38 @@ dataset/
 *.npz
 
 # 图片和视频文件 (根据需要调整)
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.mp4
-*.avi
-*.mov
-*.mkv
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
+data/**/*.gif
+data/**/*.bmp
+data/**/*.tiff
+data/**/*.mp4
+data/**/*.avi
+data/**/*.mov
+data/**/*.mkv
+
+datasets/**/*.jpg
+datasets/**/*.jpeg
+datasets/**/*.png
+datasets/**/*.gif
+datasets/**/*.bmp
+datasets/**/*.tiff
+datasets/**/*.mp4
+datasets/**/*.avi
+datasets/**/*.mov
+datasets/**/*.mkv
+
+dataset/**/*.jpg
+dataset/**/*.jpeg
+dataset/**/*.png
+dataset/**/*.gif
+dataset/**/*.bmp
+dataset/**/*.tiff
+dataset/**/*.mp4
+dataset/**/*.avi
+dataset/**/*.mov
+dataset/**/*.mkv
 
 # 压缩文件 (数据集常用格式)
 *.zip
