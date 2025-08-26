@@ -90,7 +90,7 @@ ENV/
 # 训练好的模型 (通常很大)
 *.pth
 *.pt
-*.ckpt
+# *.ckpt
 *.model
 *.weights
 *.h5
