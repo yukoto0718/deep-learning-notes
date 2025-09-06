@@ -3,8 +3,8 @@
 
 HW7 Bert (Question Answering)
 
-**kaggle url:** [ML2022Spring-hw4](https://www.kaggle.com/competitions/ml2022spring-hw7/)
-**PDF url:** [HW04.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/hw7_slides.pdf)
+**kaggle url:** [ML2022Spring-hw7](https://www.kaggle.com/competitions/ml2022spring-hw7/)
+**PDF url:** [HW07.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/hw7_slides.pdf)
 
 ### Task
 Extractive Question Answering
