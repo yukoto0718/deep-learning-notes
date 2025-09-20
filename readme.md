@@ -12,6 +12,6 @@
 | **HW11** | Adaptation |  | Domain Adaptation |[HW11.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/hw11_slides%20(ML2022).pdf) | [ML2022Spring-hw11](https://www.kaggle.com/competitions/ml2022spring-hw11/overvieww) |
 | **HW12** | RL | strong baseline | Lunar Lander |[HW12.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/hw12_RL_slides_english_version.pdf) | [ML2022Spring-hw12](https://www.kaggle.com/competitions/ml2022spring-hw12/overvieww) |
 | **HW13** | Compression | strong baseline | Network Compression |[HW13.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/Machine%20Learning%20HW13.pdf) | [ML2022Spring-hw13](https://www.kaggle.com/competitions/ml2022spring-hw13/overvieww) |
-| **HW15** | Meta Learning | boss baseline | Few-shot Classification |[HW15.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/ML2022%20HW15%20Meta%20Learning.pdf) | [ML2022Spring-hw15](https://www.kaggle.com/competitions/ml2022spring-hw15/overvieww) |
+| **HW15** | Meta Learning | strong baseline | Few-shot Classification |[HW15.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/ML2022%20HW15%20Meta%20Learning.pdf) | [ML2022Spring-hw15](https://www.kaggle.com/competitions/ml2022spring-hw15/overvieww) |
 
 ### 2.Hung-yi Lee’s Deep Learning Course 2025
